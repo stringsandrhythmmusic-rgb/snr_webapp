@@ -1,0 +1,55 @@
+/**
+ * AUTO-GENERATED — DO NOT EDIT MANUALLY
+ * Source: theme/colors.json
+ * Generated: 2026-04-03
+ * Run "node theme/generate.js" to regenerate.
+ */
+
+/*
+ * Tailwind v4 @theme block — auto-generated from theme/colors.json
+ * Imported by index.css. Do not edit — run "node theme/generate.js" instead.
+ */
+
+@theme {
+  /* Background */
+  --color-bg: #0F172A;
+  --color-bg-card: #1E293B;
+  --color-bg-elevated: #253348;
+  --color-bg-hover: #2D3D55;
+
+  /* Primary (Electric Violet) */
+  --color-primary: #7C3AED;
+  --color-primary-light: #9F67FF;
+  --color-primary-dark: #5B21B6;
+
+  /* Accent (Neon Cyan) */
+  --color-accent: #22D3EE;
+  --color-accent-light: #67E8F9;
+  --color-accent-dark: #0891B2;
+
+  /* Legacy aliases — keeps bg-gold, text-ivory, etc. working */
+  --color-gold: #7C3AED;
+  --color-gold-light: #9F67FF;
+  --color-gold-dark: #5B21B6;
+  --color-burgundy: #22D3EE;
+  --color-burgundy-light: #67E8F9;
+  --color-burgundy-dark: #0891B2;
+  --color-ivory: #F8FAFC;
+  --color-muted: #94A3B8;
+  --color-subtle: #64748B;
+
+  /* Status */
+  --color-success: #34D399;
+  --color-warning: #FBBF24;
+  --color-error: #F87171;
+  --color-info: #60A5FA;
+
+  /* Border */
+  --color-border: #253348;
+  --color-border-light: #2D3D55;
+
+  /* Fonts (not generated — kept as constants) */
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'Space Mono', monospace;
+}
